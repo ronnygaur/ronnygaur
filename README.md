@@ -1,6 +1,5 @@
 ### Hi , I'M ROHAN  👋
 
-**ronnygaur/ronnygaur** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 \
 - 🔭 I’m currently studing in Government Engineering Student Bikaner { BTU ( BIKANER TECHINCAL UNIVERSITY }..
