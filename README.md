@@ -27,4 +27,3 @@
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=ronnygaur&show_icons=true&locale=en&layout=compact" alt="ronnygaur" /></p>
 
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=ronnygaur&" alt="ronnygaur" /></p>
